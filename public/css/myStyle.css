@@ -1,0 +1,17 @@
+#alert-notify {
+    width: 50%;
+    position: absolute;
+    z-index: 1;
+    opacity: 0.9;
+    left: 20%;
+}
+.ndsv{
+    float: right;
+    margin-top: 25px;
+}
+.title-ndsv {
+    float: left;
+}
+.selected_menu {
+    border-bottom: solid 2px #130202;
+}
