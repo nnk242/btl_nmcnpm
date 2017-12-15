@@ -12,7 +12,7 @@
             </div>
 
             <div class="form-group">
-                <button class="btn btn-danger" id="export">Export</button>
+                <a class="btn btn-danger" id="export" href="/">Quay lại trang chủ</a>
             </div>
         </div>
     </div>
